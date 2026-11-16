@@ -17,5 +17,4 @@ Prototype: <link, from step 6>
 - [ ] Step 6 · Prototype, test, case study (due: final review)
 
 ## AI use (whole project)
-<tool · what for · what I changed>, or: none
-ChatGPT · brainstorming, idea development, formatting assistance.
+<ChatGPT · brainstorming, idea development, formatting assistance.>, or: none

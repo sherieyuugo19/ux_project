@@ -32,5 +32,4 @@ I will know I am right if, in interviews, they
 
 
 ## AI use in this step
-<tool · what for · what I changed>, or: none
-ChatGPT · brainstorming, idea development, formatting assistance.
+<ChatGPT · brainstorming, idea development, formatting assistance.>, or: none
