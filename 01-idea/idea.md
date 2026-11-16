@@ -1,7 +1,7 @@
 # Step 1 · My app idea
 
 ## Working title
-<DEEP CUT>
+**DEEP CUT**
 
 ## The idea in one sentence
 <DEEP CUT helps music fans to discover concerts and emerging artists that match their musical taste when exploring the local live music scene.>.
