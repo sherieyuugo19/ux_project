@@ -16,5 +16,11 @@ DEEP CUT helps music fans to discover concerts and emerging artists that match t
 - [ ] Step 5 · UI kit, screens, heuristic review (due: session 6)
 - [ ] Step 6 · Prototype, test, case study (due: final review)
 
+## Research
+
+- [Online Survey — DEEP CUT](02-research/survey.md)
+- [Interview Guide](02-research/interview-guide.md)
+- [Competitor Benchmark](02-research/benchmark.md)
+
 ## AI use (whole project)
 ChatGPT · brainstorming, idea development, formatting assistance.
