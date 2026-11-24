@@ -1,55 +1,48 @@
-# Step 1 · My app idea
+# # Idea: SPOILER
 
-## Working title
-**SPOILER**
+App name: SPOILER
 
 ## The idea in one sentence
-SPOILER helps two friends read the same fiction book independently, keep chapter-based reflections private, and reveal their thoughts together when both have finished the agreed reading checkpoint.
+
+SPOILER helps two people who read the same book at different times discuss it together without spoilers when they reach an agreed point in the story.
 
 ## Who it is for
-- **Primary user group:** Two friends, approximately 18–30, who enjoy fiction or want to build a shared reading habit.
-- **Two relevant situations:**
-  - Existing reading partners who have already read a book together and want a better way to exchange reactions.
-  - Potential reading partners who want to start reading the same book together.
-- **Where I can find five people:** Friends and acquaintances who read fiction; university students; people who use book-tracking or reading-community apps; friends who have tried reading the same book with someone else.
-- **Device and situation:** iOS mobile app. Each person reads wherever and whenever it suits them; they do not need to be in the same place or read at the same time.
+
+- User group: people who read fiction for pleasure and want to read or discuss the same book with another person.
+- Where I can find five of them: through my personal network, including acquaintances who read fiction and have experience reading or discussing books with someone else.
+- Device and situation: iPhone, reading in short sessions at times that differ from the other person's (assumption, to be checked in the interviews).
 
 ## The problem (my hypothesis)
-I believe two friends who want to share a reading experience can find it difficult to exchange chapter-specific reactions without spoilers or pressure to read at the same pace, because conversations and messages can reveal plot details too early and the two readers may finish a section at different times.
 
-I will know whether this problem is real if interviews show that people:
-- Have read, or wanted to read, the same book with a friend.
-- Have avoided discussing a book or delayed sharing reactions to prevent spoilers.
-- Have experienced different reading speeds or uncertainty about when it is safe to discuss a chapter.
-- Want a way to save personal reactions and compare them after both readers finish the same section.
-- Prefer thoughts to be revealed together, rather than seeing the other person's notes immediately.
+I believe that two people who want to read one book together struggle to discuss it, because they read at different speeds, one of them risks spoiling the plot for the other, thoughts that come up during reading are forgotten before the conversation happens, and one reader may see the other's opinion before forming their own.
 
-The reveal mechanic is a hypothesis to validate, not an established user need.
+I will know I am right if, in the interviews, people tell me about:
+- avoiding or postponing a conversation about a book because of spoilers;
+- the faster reader holding back, or the slower reader being spoiled by accident;
+- losing a thought or a quote before they could share it;
+- giving up on reading a book together because their paces did not match;
+- changing or dropping their own view after hearing the other person's first;
+- trouble agreeing where to stop and talk.
 
-## The core experience
-1. One friend creates a two-person Reading Room and invites the other.
-2. They choose the same fiction book.
-3. They agree on a reading checkpoint, such as a chapter.
-4. Each person reads independently using their usual book or reading app.
-5. Each person writes private reflections in SPOILER.
-6. Reflections stay hidden from the partner until both have submitted for that checkpoint.
-7. When both are ready, the reflections are revealed together and the friends can compare their reactions.
-8. They choose the next checkpoint.
+I will know I am wrong if people say they already discuss books easily in a messenger, never read the same book at the same time, or do not care about spoilers. In that case the idea changes or is dropped, and I write it down.
 
-**Important distinction:** SPOILER is a companion app, not an e-reader. The reading itself happens outside the app. The concept protects the exchange of reflections; it does not require both people to read simultaneously.
+## Starting point (a hypothesis to test)
+
+The first sketch is a private reading room for two readers: they read the same book at their own pace, write private notes, and see each other's notes only after both have written their own for the same part of the book. Several existing apps already hide another reader's notes until you reach the same place in the book. What is not known is whether people want a built-in reader at all, and whether a shared moment of reveal is more valuable to them than notes that open gradually. The research decides what stays; the concept is written in step 4.
 
 ## Platform and why
-iOS mobile application. The experience is centred on two people coordinating a shared activity, saving short personal reflections and receiving a reveal notification. A mobile app supports quick check-ins before or after reading while allowing each person to read at their own pace. SPOILER will not replace a physical book, Kindle or another reading app.
 
-## Out of scope: what my app will NOT do
-1. **Built-in e-reader or book sales:** Users read in their existing format or app; SPOILER does not host full books or sell them.
-2. **Public social network:** No public profiles, open communities, social feed or groups larger than two people.
-3. **Large discovery and recommendation platform:** No extensive book catalogue, AI recommendations, ratings system or AI analysis of readers' notes.
+iOS (iPhone). I use an iPhone myself, so I can design and test the prototype on a device I know and have access to. This also allows me to follow Apple's Human Interface Guidelines and use the official iOS UI Kit for Figma.
 
-## Visual direction
-**Warm Contemporary Editorial** — contemporary independent-publishing energy, two-perspective compositions and human warmth.
+## Out of scope
 
-The visual identity will use expressive editorial typography, strong layouts and paired/overlapping forms. The selected brand direction is **Censored Spoiler**: redacted text, black bars and concealed fragments represent thoughts that remain hidden until both readers are ready. The working brand name is **SPOILER**.
+1. A public social network: open profiles, a shared feed, discovery of strangers
+2. Reading groups of three or more people
+3. A book store or a recommendation platform
+4. AI recommendations or AI analysis of what was read
+5. Ratings, achievements and other gamification
 
-## AI use in this step
-ChatGPT · brainstorming and concept development; helped compare naming and visual identity directions. The final concept and design decisions are selected and reviewed by the student.
+## AI use (this step)
+
+- Claude (Anthropic) · review of competitors' public pages, and first draft of this file and `references.md`.
+- ChatGPT (OpenAI) · helped refine the wording and checked that the idea remains a hypothesis rather than a fixed feature specification.
