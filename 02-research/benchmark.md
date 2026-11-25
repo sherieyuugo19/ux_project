@@ -1,42 +1,55 @@
 # Step 2 · SPOILER competitor benchmark
 
-## Main task to benchmark
-Help two friends share reactions to the same fiction book while reading independently, without exposing chapter details before both are ready.
+## Research task
 
-## Competitors to inspect
-Choose three products from the Step 1 shortlist (Fable, Bookclubs, Goodreads and The StoryGraph) or other directly relevant products discovered during research. Do not assume that any competitor has SPOILER's mutual-reveal mechanic; verify each product directly.
+Explore how people can read the same fiction book independently, track progress and share reactions without unwanted spoilers.
+
+## Competitors
+
+1. Bookties — https://bookties.app/
+2. Gloss — https://apps.apple.com/ru/app/gloss-read-with-friends/id6762062764
+3. ReadWith — https://readwith.app/
 
 ## Test setup
-- Device and width: record the device and viewport used for each product.
-- Starting point: record whether the user is signed in and any setup required.
-- Task: find how a reader tracks a book, shares a reaction or coordinates a shared reading activity.
-- Evidence: capture screenshots of every relevant step. Do not include private account information.
+
+Use the same task for each product:
+
+**Task:** Find how to start or join a shared reading activity, track progress and exchange reactions.
+
+For each product, record:
+- Device and platform used.
+- Starting point and any sign-in requirements.
+- Steps and taps needed to complete the task.
+- Screenshots of relevant screens.
+- Features that work well.
+- Difficulties or unclear interactions.
 
 ## Comparison
 
-| | Competitor A | Competitor B | Competitor C |
+| | Bookties | Gloss | ReadWith |
 |---|---|---|---|
-| Name and link | | | |
-| Task tested | | | |
-| Taps from start to goal | | | |
-| Screenshots of every step | img/a-01.png ... | img/b-01.png ... | img/c-01.png ... |
-| 3 things that work | | | |
-| 3 things that fail or cause friction | | | |
-| Relevant user-review evidence (quote and source link) | | | |
+| Platform tested | | | |
+| Task completed | | | |
+| Number of taps | | | |
+| Screenshots | | | |
+| What works well | | | |
+| Difficulties | | | |
+| Relevant features | | | |
 
 ## Questions to investigate
-- How does the product show reading progress?
+
+- How is reading progress displayed?
 - Can readers share notes, highlights or reactions?
-- Does it support one-to-one reading or mainly larger communities?
-- How does it prevent or communicate spoilers?
-- What happens when people progress at different speeds?
-- How clear are invitations, waiting states and completion states?
+- How does the product handle spoilers?
+- What happens when readers progress at different speeds?
+- How are invitations and shared reading activities organised?
 
-## Patterns I may reuse
-Record only patterns observed directly in the products and explain how they support the SPOILER user journey.
+## Patterns and opportunities
 
-## Gaps and opportunities
-Record gaps only after completing the benchmark. The idea that simultaneous reveal is valuable remains a hypothesis until user research supports it.
+Record useful interaction patterns observed directly.
 
-## AI use in this step
-ChatGPT · helped adapt the benchmark template to the new concept. Product evaluation, screenshots, review quotes and conclusions must come from direct inspection and cited evidence.
+Identify possible gaps only after testing the products. The value of mutual confirmation before revealing reactions remains a hypothesis to validate through user research.
+
+## AI use
+
+ChatGPT helped organise and simplify the benchmark template. Product testing, screenshots, observations and conclusions will be completed by the student.
